@@ -1,0 +1,34 @@
+﻿id,type,speaker,correct answer,david,lee,s1,s2,s3,s4,final decision
+s08e01_1,regular,s2,1,,1,,,0,1,1
+s08e01_2,regular,s3,1,0,,0,0,,,0
+s08e01_3,regular,s1,0,,1,,,1,0,1
+s08e01_4,possession,s1,0,0,,0,0,,,0
+s08e02_1,regular,s1,1,1,,,,1,0,1
+s08e02_2,regular,s2,0,-1,,,,1,1,1
+s08e02_3,regular,david,1,,1,1,1,,,1
+s08e02_4,regular,s3,0,,0,0,0,,,0
+s08e03_1,regular,s2,1,0,,,,1,-1,0
+s08e03_2,regular,s1,1,0,,,,1,1,0
+s08e03_3,regular,s4,0,,0,1,0,,,0
+s08e03_4,regular,lee,1,0,,,,0,1,0
+s08e04_1,regular,s1,0,,0,,,0,0,0
+s08e04_2,regular,s4,1,1,,1,-1,,,1
+s08e04_3,regular,lee,1,1,,1,-1,,,1
+s08e04_4,regular,david,0,,0,,,0,0,0
+s08e05_1,regular,s2,0,0,,0,,0,,0
+s08e05_2,regular,s1,1,,1,,0,,0,0
+s08e05_3,regular,s3,1,,1,,1,,1,1
+s08e05_4,regular,david,0,,0,,0,,0,0
+s08e06_1,regular,s1,0,1,,,1,,1,1
+s08e06_2,regular,s4,1,,0,1,,1,,0
+s08e06_3,regular,s3,0,0,,,0,,-1,0
+s08e06_4,regular,s2,1,,0,1,,1,,1
+s08e06_5,regular,Greg Davies,1,0,,,0,,0,0
+s08e07_1,regular,s1,1,,1,,0,,1,1
+s08e07_2,regular,s3,1,,1,,1,,0,1
+s08e07_3,regular,s4,1,1,,1,,1,,1
+s08e07_4,regular,lee,0,0,,-1,,-1,,0
+s08e08_1,regular,s3,1,,0,1,0,,,0
+s08e08_2,regular,s2,1,0,,,,0,0,0
+s08e08_3,regular,david,1,,0,0,0,,,0
+s08e08_4,regular,lee,0,0,,,,-1,-1,0
